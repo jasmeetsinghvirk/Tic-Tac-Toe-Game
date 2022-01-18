@@ -1,0 +1,22 @@
+.App {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  height: 100vh;
+  background-image: url("./5605216.jpg");
+}
+.tictacbtn {
+  width: 50px;
+  height: 50px;
+  border: 0;
+  border-radius: 10px;
+}
+
+.ticRow{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  margin: 0.5rem;
+}
